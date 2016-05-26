@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    border: 3px solid #75AD21;
+	 position: relative;
+	 text-align:center;
+	
+	 
+}
+
+#nav {
+   border: 3px solid #73AD21;
+    float:left;
+	height:750px;
+	 width:100px;
+	 padding:5px;
+	}
+
+#section {
+     border: 3px solid #ff0000;
+
+	  width:600px;
+	  position:absolute;
+	  top:150px;
+	  left:150px;
+	  padding:10px;
+	 
+	  
+	
+}
+  
+  #footer {
+
+   position:absolute;
+ 
+    bottom: 0;
+	width:100%;
+    color:white;
+    text-align:center;
+    padding:10px;
+    background-color:black;
+    border: 3px solid #73AD21;
+}
+  
+  #e{
+ 
+   border:2px solid #ff0000;
+  
+  
+  
+  }
+  
+  #b {
+  border:7px solid #ff0000;
+  position:absolute;
+  left:200px;
+ 
+    
+  }
+  
+  
+</style>
+
+</head>
+<body>
+<div id = "e">
+
+<div id="header">
+
+<h1>City Gallery</h1>
+
+</div>
+
+<div id="nav">
+
+London<br>
+Paris<br>
+Tokyo
+</div>
+
+<div id="section">
+<button id="b"  type="button" >hallo</button>
+
+<h2>London</h2>
+
+<p>London is the capital city of England. It is the most populous city in the United Kingdom,
+with a metropolitan area of over 13 million inhabitants.</p>
+<p>Standing on the River Thames, London has been a major settlement for two millennia,
+its history going back to its founding by the Romans, who named it Londiniumfghfghfgfhfghfghfghfghfghfghfghfghfghfgh.;j;ljkl;
+jlk;jl;jk;ljk;labelj;jkl
+ghjkghjkhjkkkkkkkkkkkkkkkkkkkkkkkkk
+khjkhjkhjkhjk
+khjkjhjjjjjjjjjjjjjjjjjjjj</p>
+</div>
+<div id="footer">
+Copyright © W3Schools.com
+</div>
+
+</div>
+</body>
+</html>
